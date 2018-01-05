@@ -390,7 +390,7 @@ ts-message .action_hover_container .btn_msg_action,
 }
 
 .ql-editor {
-	background:var(--background);
+	background:#111;
 }
 
 #quick_switcher_btn:active, #quick_switcher_btn:focus, #quick_switcher_btn:hover {
