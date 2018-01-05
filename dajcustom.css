@@ -385,8 +385,12 @@ ts-message .action_hover_container .btn_msg_action,
   color: var(--text);
 }
 
-.ql-container .ql-editor p {
+.ql-container p {
   color: var(--text);
+}
+
+.ql-editor {
+	background:var(--background);
 }
 
 #quick_switcher_btn:active, #quick_switcher_btn:focus, #quick_switcher_btn:hover {
